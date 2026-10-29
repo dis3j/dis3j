@@ -1,6 +1,6 @@
 # Philip
 
-**Middle-Level Developer | Creator of overhexed**
+**Middle-Level Developer**
 
 I build software, explore low-level programming, and use AI as a tool to improve my workflow.
 
